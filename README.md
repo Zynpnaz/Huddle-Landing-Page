@@ -19,7 +19,7 @@ Users should be able to:
 
 ### Links
 
-- [Live Site URL:](https://zynpnaz.github.io/Huddle-Landing-Page/)
+- [Live Site URL](https://zynpnaz.github.io/Huddle-Landing-Page/)
 
 
 
